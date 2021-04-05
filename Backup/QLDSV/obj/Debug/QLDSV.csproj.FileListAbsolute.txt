@@ -1,0 +1,532 @@
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.frmDangNhap.resources
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.exe.licenses
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.frmMain.resources
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\obj\Debug\QLDSV.frmSinhVien.resources
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\C-Sharp_Project\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmDangNhap.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmSinhVien.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.exe.licenses
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmMonHoc.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmLop.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmDiem.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmMain.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmHocPhi.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\stdole.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.frmINDSSV.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.rptINDSSV.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.frmBDMH.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.rptBDMH.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.frmPHIEUDIEM.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.rptPHIEUDIEM.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmDangKy.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\QLDSV.exe.config
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.exe
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.pdb
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\QLDSV.exe
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\QLDSV.pdb
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\stdole.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmDangKy.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmDiem.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmHocPhi.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmLop.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmMain.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmDangNhap.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmMonHoc.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmSinhVien.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.frmBDMH.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.frmINDSSV.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.frmPHIEUDIEM.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.rptBDMH.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.rptINDSSV.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.Report.rptPHIEUDIEM.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\Backup\QLDSV\obj\Debug\QLDSV.exe.licenses
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.frmDSKTMH.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.frmBDTK.resources
+D:\Documents\HK1\CO SO DU LIEU PHAN TAN_THAY THU\NguyenTienSang_N17DCCN144_QLDSV\QLDSV\QLDSV\obj\Debug\QLDSV.Report.rptBDTK.resources
